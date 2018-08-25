@@ -1,0 +1,26 @@
+h1.intro {
+  font-size: 42px;
+  color: #616977;
+  text-align: center;
+  font-weight: bold;
+  font-family: monospace;
+}
+img.intro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 12px solid;
+  border-color: #823132;
+}
+h2.intro{
+  text-align: center;
+  font-size: 24px;
+  font-family: monospace;
+  color: red;
+}
+p.intro{
+  text-align: right;
+  color: #c68384;
+  font-family: monospace;
+}
